@@ -1,0 +1,17 @@
+body, html {
+		  font-family: 'Press Start 2P', cursive;
+		  display: flex;
+		  justify-content: center;
+		  margin: 0px 0px 0px 0px;
+		  background-image: url('../../assets/img/landscape.webp');
+		  background-position: center center;
+		  background-repeat: no-repeat;
+		  background-attachment: fixed;
+		  background-size: cover;
+		  margin-top: 65px;
+		  height: 871px;
+		  margin: 0;
+}
+button {
+	font-family: 'Press Start 2P', cursive;
+}
